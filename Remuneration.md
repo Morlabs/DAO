@@ -1,4 +1,4 @@
-# Compensation of Council Members and Contributors in Trinity DAO
+# Remuneration of Council Members and Contributors in Trinity DAO
 
 ## Overview
 
@@ -25,3 +25,44 @@ Trinity DAO adopts a transparent and equitable compensation model for its counci
 ## Implementation
 
 Trinity DAO and the councils of each Sub-DAO oversee the implementation of this compensation model. Regular evaluations ensure the model remains competitive, equitable, and in tune with Trinity DAO's evolving goals.
+
+### FAQs
+
+### Compensation FAQs in Trinity DAO
+
+#### How is compensation determined within Trinity DAO?
+Compensation is set by Trinity DAO for council members and by Sub-DAO councils for their contributors, based on strategic importance, operational needs, performance, and contributions.
+
+#### What form does compensation take?
+All compensation is in Trinity DAO tokens, aligning council members and contributors with the DAO's success.
+
+#### How is compensation delivered?
+Through Superfluid streams for continuous, real-time payment, ensuring efficiency and flexibility.
+
+#### Is there a waiting period before compensation begins?
+No cliff period exists; streams start with appointments or contributions for immediate compensation.
+
+#### Can compensation be negotiated?
+Council member compensation is fixed, but Sub-DAO councils may adjust contributor compensation, allowing potential negotiation.
+
+#### How does Trinity DAO ensure fair compensation?
+A design aiming for equity and transparency, with regular evaluations to maintain fairness.
+
+#### What if a council member or contributor's role changes?
+Compensation may be reassessed to reflect new responsibilities and contributions.
+
+#### Viewing compensation details?
+The Superfluid dashboard or Trinity DAO tools offer transparency on compensation amounts.
+
+#### Resolving compensation disputes?
+Handled within a Sub-DAO or escalated to the Network Council or Trinity DAO community for complex issues.
+
+#### Can compensation amounts change?
+Yes, based on reviews, operational needs, strategic goals, or individual performance and contributions.
+
+#### Can a Sub-DAO adjust compensation streams without cancelling them?
+Yes, a Sub-DAO can dynamically adjust existing Superfluid streams to reflect changes in token allocation, avoiding the need to cancel and recreate streams. This ensures seamless compensation adjustments for contributors.
+
+#### What happens if a Sub-DAO has their proportional allocation amended? 
+Should a Sub-DAO's allocation change, it can proportionally reduce or increase the Superfluid streams to match the new allocation. Contributors' compensation adjusts in real-time, maintaining the agreed percentage of the Sub-DAO's total allocation.
+
