@@ -1,6 +1,5 @@
 ## Governance 
 
-```markdown
 ### Governance Structure of MOR Labs and Trinity DAO
 
 MOR Labs operates through a decentralized autonomous organization (DAO) structure known as Trinity DAO, which is further segmented into a sub-DAO framework. This structure ensures that each sub-DAO has clearly defined roles and responsibilities, enabling efficient operation and task execution.
