@@ -7,10 +7,11 @@ MOR Labs operates through a decentralized autonomous organization (DAO) structur
 
 Trinity DAO is governed by its token holders and a Network Council that sits atop all of the Sub-DAOs. This Network Council:
 
-- Acts as the Arbitration Council Sub-DAO, providing a mechanism for resolving disputes between sub-DAOs or within the broader Trinity DAO community.
-- Serves as the community multisig, ensuring a capacity for critical interventions across the entire organization, safeguarding the DAO's integrity and operational continuity.
+- Reviews and ratifies improvement proposals that have been submitted for community voting, playing a pivotal role in the DAO's evolution and growth.
+- Functions as the Arbitration Council Sub-DAO, offering a structured approach to mediate and resolve conflicts that arise within or between sub-DAOs, upholding the unity and coherence of the Trinity DAO community.
+- Acts as the guardian of the community's multisig, enabling decisive action during critical situations to maintain the DAO's integrity and ensure its smooth operation across all activities
 
-Council members are elected by Trinity DAO, with their duties and tenure detailed in contracts stored on the InterPlanetary File System (IPFS).
+Network Council members are appointed by token holders following the inaugural term, ensuring democratic governance and alignment with the community's interests. Sub DAO Council members are elected by Trinity DAO. All Council members have transparent contracts with their duties and tenure detailed on the InterPlanetary File System (IPFS).
 
 The organisational structure of Trinity DAO can be shown below. 
 
