@@ -11,7 +11,7 @@ Trinity DAO is governed by its token holders and a Network Council that sits ato
 - Functions as the Arbitration Council Sub-DAO, offering a structured approach to mediate and resolve conflicts that arise within or between sub-DAOs, upholding the unity and coherence of the Trinity DAO community.
 - Acts as the guardian of the community's multisig, enabling decisive action during critical situations to maintain the DAO's integrity and ensure its smooth operation across all activities
 
-Network Council members are appointed by token holders following the inaugural term, ensuring democratic governance and alignment with the community's interests. Sub DAO Council members are elected by Trinity DAO. All Council members have transparent contracts with their duties and tenure detailed on the InterPlanetary File System (IPFS).
+Council members are appointed by token holders following the inaugural term, ensuring democratic governance and alignment with the community's interests. All Council members have transparent contracts with their duties and tenure detailed on the InterPlanetary File System (IPFS).
 
 The organisational structure of Trinity DAO can be shown below. 
 
