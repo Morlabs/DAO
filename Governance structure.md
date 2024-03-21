@@ -1,18 +1,55 @@
 ## Governance 
 
-MOR Labs employs a decentralized autonomous organization (DAO) called Trinity DAO, which utilizes a sub-DAO structure with clearly defined responsibilities. This structure allows each sub-DAO to operate and execute tasks swiftly.
+```markdown
+### Governance Structure of MOR Labs and Trinity DAO
 
-Trinity DAO, governed by token holders, possesses the authority to veto any proposal, should the need arise. This mechanism ensures that sub-DAOs operate with agility and flexibility while remaining aligned with the interests of Trinity DAO and its token holders.
+MOR Labs operates through a decentralized autonomous organization (DAO) structure known as Trinity DAO, which is further segmented into a sub-DAO framework. This structure ensures that each sub-DAO has clearly defined roles and responsibilities, enabling efficient operation and task execution.
 
-Each sub-DAO has its own council that oversees contributors and manages critical infrastructure related to that particular sub-DAO. The members of each council are elected by Trinity DAO, with their responsibilities and term outlined in a contract stored on the InterPlanetary File System (IPFS).
+### Central Governance and Oversight
 
-Furthermore, a community multisig can be employed to execute transactions within any sub-DAO, should a critical intervention be required. 
+Trinity DAO is governed by its token holders who hold the power to veto any proposals, ensuring that the operations of sub-DAOs are both agile and aligned with the overarching goals and interests of the Trinity DAO community.
+
+### Sub-DAO Councils and Community Multisig
+
+Each sub-DAO operates under the guidance of its own council, which is responsible for overseeing contributors and managing the sub-DAO’s specific infrastructure. Council members are elected by Trinity DAO, with their duties and tenure detailed in contracts stored on the InterPlanetary File System (IPFS).
+
+To address situations that require immediate action, a community multisig approach is implemented not only in the Main DAO but also across all sub-DAOs. This ensures readiness and capacity for critical interventions across the entire organization.
+
+### Conflict Resolution
+
+#### Within a Single Sub-DAO
+Conflicts or disputes arising within a single sub-DAO are managed and resolved by the council of that sub-DAO. The council aims to mediate conflicts with a focus on consensus-building and maintaining community harmony.
+
+#### Between Multiple Sub-DAOs
+Should disputes involve members from different sub-DAOs, the resolution responsibility falls to the Arbitration Council Sub-DAO. This specialized council mediates inter-sub-DAO conflicts, ensuring decisions are fair and in line with DAO principles.
+
+#### Escalation to the Main DAO
+In cases where the Arbitration Council Sub-DAO cannot resolve a dispute, the matter is escalated to the Main DAO. This escalation process ensures that unresolved issues receive the necessary attention and resolution at the highest governance level.
+
+### Alignment with Token Holders
+
+Trinity DAO’s governance model emphasizes alignment with its token holders. Decisions, especially those concerning strategic directions and conflict resolutions, consider token holder interests and inputs, ensuring the DAO’s actions reflect the collective will of its members.
+
+### Council Member Responsibilities
+
+Council members across all levels of the DAO are responsible for:
+- Overseeing the operations and contributions within their respective domains.
+- Ensuring their sub-DAO's activities align with Trinity DAO’s overall objectives.
+- Mediating and resolving conflicts within their jurisdiction.
+- Managing elections and governance processes within their sub-DAO.
+
+### Contributor Responsibilities
+
+Contributors within Trinity DAO are tasked with:
+- Executing tasks and projects in accordance with their sub-DAO’s goals.
+- Participating in governance and decision-making processes.
+- Upholding the values and principles of the DAO in their contributions and interactions.
+
+This governance structure and conflict resolution process are designed to uphold the principles of decentralization and community governance, ensuring Trinity DAO operates efficiently, transparently, and in harmony with its members’ values and goals.
 
 The organisational hierarchy of Trinity DAO is shown below. 
 
 ![image](https://github.com/Morlabs/Contributions/assets/163015586/2396aa2a-7974-4082-9c3c-8ad7aa40926c). 
-
-Each contributor to Trinity DAO is provided with a HAT NFT, powered by [Hats Protocol](https://hatsprotocol.xyz), which grants them with special access permissions tailored towards their role. 
 
 ## Sub-DAOs and Their Responsibilities
 
