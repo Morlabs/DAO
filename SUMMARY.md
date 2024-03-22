@@ -15,7 +15,7 @@
 
 ## Governance
 
-* [Page 1](governance/page-1.md)
+* [DAO Constitution](governance/dao-constitution.md)
 
 ## Group 1
 
