@@ -15,7 +15,8 @@ Council members are appointed by token holders following the inaugural term, ens
 
 The organisational structure of Trinity DAO can be shown below. 
 
-![image](https://github.com/Morlabs/Contributions/assets/163015586/2396aa2a-7974-4082-9c3c-8ad7aa40926c). 
+![image](https://github.com/Morlabs/DAO/assets/163015586/b1db405a-ad28-47c2-ac8b-6fbed6d67465)
+
 
 ### Sub-DAO Councils
 
