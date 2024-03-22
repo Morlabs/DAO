@@ -15,8 +15,8 @@
 
 ## Governance
 
-* [DAO Constitution](governance/dao-constitution.md)
 * [Governance Structure](governance/governance-structure.md)
+* [DAO Constitution](governance/dao-constitution.md)
 
 ## Group 1
 
